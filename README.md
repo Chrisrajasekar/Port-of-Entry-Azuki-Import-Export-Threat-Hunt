@@ -72,14 +72,14 @@ DeviceProcessEvents
 
 ## 🛑 Indicators of Compromise (IOCs)
 * **Attacker IPs:** `88.97.178.12` (Source), `78.141.196.6` (C2).
-* **Malicious Files:** `svchost.exe` (Beacon), `mm.exe` (Mimikatz), `Wupdate.ps1` .
-* **Persistence:** Scheduled Task: `Windows Update Check`; Local Account: `Support` .
+* **Malicious Files:** `svchost.exe` (Beacon), `mm.exe` (Mimikatz), `Wupdate.ps1`.
+* **Persistence:** Scheduled Task: `Windows Update Check`; Local Account: `Support`.
 
 ---
 
 ## 🛡️ Remediation & Recommendations
-* **Immediate:** Isolate compromised hosts (`AZUKI-SL` and `10.1.0.188`) and block malicious IPs at the perimeter [.
-* **Short-Term:** Enforce MFA on all RDP-accessible accounts and restrict access to known-good IP ranges/VPN .
+* **Immediate:** Isolate compromised hosts (`AZUKI-SL` and `10.1.0.188`) and block malicious IPs at the perimeter.
+* **Short-Term:** Enforce MFA on all RDP-accessible accounts and restrict access to known-good IP ranges/VPN.
 * **Long-Term:** Deploy EDR with LSASS protection and implement network segmentation to prevent lateral movement.
 
 ---
