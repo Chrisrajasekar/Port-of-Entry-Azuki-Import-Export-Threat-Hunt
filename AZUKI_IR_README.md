@@ -79,4 +79,6 @@ DeviceProcessEvents
 * **Long-Term:** Deploy EDR with LSASS protection and implement network segmentation to prevent lateral movement [cite: 134, 135].
 
 ---
-**CONFIDENTIAL – FOR AUTHORIZED PERSONNEL ONLY** [cite: 62]
+Incident Report :[IR_Report_Azuki.pdf](https://github.com/user-attachments/files/26247609/IR_Report_Azuki.pdf)
+
+ThurtHunt investigation:[Port of Entry_Threat Hunt_Detailed Report.pdf](https://github.com/user-attachments/files/26247603/Port.of.Entry_Threat.Hunt_Detailed.Report.pdf)
