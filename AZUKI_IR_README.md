@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Incident Response Case Study: Project Azuki
+# 🕵️‍♂️ Incident Response Case Study: Project Azuki_Threat Hunt
 
 | Incident ID | Severity | Analyst | Status |
 | :--- | :--- | :--- | :--- |
